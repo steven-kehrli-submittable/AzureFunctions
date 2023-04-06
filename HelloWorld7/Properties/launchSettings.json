@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HelloWorld7": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7216",
+      "launchBrowser": false
+    }
+  }
+}
